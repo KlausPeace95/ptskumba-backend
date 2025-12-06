@@ -197,6 +197,7 @@ SIMPLE_JWT = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://localhost:5174",
+    "https://ptskumba.onrender.com"
 ]
 
 AUTH_USER_MODEL = "users.CustomUser"
